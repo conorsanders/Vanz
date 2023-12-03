@@ -13,24 +13,24 @@
 // Betabotz = digunakan hampir di semua fitur kecuali linkshort
 // Botcahx  = digunakan untuk linkshort saja
 
-global.owner = ['6285842647866']  
-global.mods = ['6285842647866'] 
-global.prems = ['6285842647866']
-global.nameowner = 'Lann'
-global.numberowner = '6285842647866' 
-global.mail = 'fxacbapi.my.id@gmail.com' 
-global.dana = '6281395861695'
-global.pulsa = '6281395861695'
+global.owner = ['6285882465686']  
+global.mods = ['6285882465686'] 
+global.prems = ['6285882465686']
+global.nameowner = 'Nelz'
+global.numberowner = '6285882465686' 
+global.mail = 'admin@ivanstudent.me' 
+global.dana = '6285882465686'
+global.pulsa = '6285882465686'
 global.gopay = '6281395861695'
-global.namebot = 'BETABOTZ-MD'
+global.namebot = 'IVAN'
 global.gc = 'https://chat.whatsapp.com/G4f1fTpz9zL4EH3FyIcaPR'
-global.web = 'https://github.com/BOTCAHX'
-global.instagram = 'https://instagram.com/prm2.0'
-global.wm = 'Beta BOT-MD'
+global.web = 'https://ivanstudent.me'
+global.instagram = 'https://instagram.com/yuxlkirito'
+global.wm = 'Nelz BOT-MD'
 global.watermark = wm
-global.wm2 = '⫹⫺ Beta Bot'
-global.wm3 = '© Lann'
-global.wm4 = 'made by BetaBotz-MD'
+global.wm2 = '⫹⫺ Nelz Bot'
+global.wm3 = '© Nelz'
+global.wm4 = 'made by Nelz'
 global.wait = '_*Tunggu sedang di proses...*_'
 global.eror = '_*Server Error*_'
 global.benar = 'Benar ✅\n'
@@ -40,17 +40,17 @@ global.packname = 'Made with'
 global.author = 'Bot WhatsApp'
 
 //---- image thumbnail 
-global.thumb = 'https://telegra.ph/file/ec75e8bd53238f11603d9.jpg'
+global.thumb = 'https://ivanstudent.me/assets/Image/profile.jpg'
 
 //===> Apikey
-global.lann = 'Your_Key_Here' //isi apikey mu https://api.betabotz.org
-global.btc = 'Your_Key_Here'//Isi apikey di https://api.botcahx.live
+global.lann = 'KingNelz' //isi apikey mu https://api.betabotz.org
+global.btc = 'KingNelz'//Isi apikey di https://api.botcahx.live
 global.APIs = {   
   lann: 'https://api.betabotz.org',
   btc: 'https://api.botcahx.live'
 }
 global.APIKeys = { 
-  'https://api.betabotz.org': 'Your_Key' //isi apikey mu https://api.betabotz.org
+  'https://api.betabotz.org': 'KingNelz' //isi apikey mu https://api.betabotz.org
 }
 
 global.multiplier = 45
